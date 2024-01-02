@@ -178,7 +178,7 @@ public class GetCurrencyNameFromCurrencyCode extends WebAction {
     currencyCodesToNames.put("TZS", "Tanzanian Shilling");
     currencyCodesToNames.put("UAH", "Ukrainian Hryvnia");
     currencyCodesToNames.put("UGX", "Ugandan Shilling");
-    currencyCodesToNames.put("USD", "United States Dollar");
+    currencyCodesToNames.put("USD", "US Dollar");
     currencyCodesToNames.put("UYU", "Uruguayan Peso");
     currencyCodesToNames.put("UZS", "Uzbekistan Som");
     currencyCodesToNames.put("VES", "Venezuelan Bolívar");

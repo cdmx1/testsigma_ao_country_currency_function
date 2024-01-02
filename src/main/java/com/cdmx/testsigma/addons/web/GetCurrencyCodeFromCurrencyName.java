@@ -180,7 +180,7 @@ public class GetCurrencyCodeFromCurrencyName extends WebAction {
     currencyNamesToCodes.put("tanzanian shilling", "TZS");
     currencyNamesToCodes.put("ukrainian hryvnia", "UAH");
     currencyNamesToCodes.put("ugandan shilling", "UGX");
-    currencyNamesToCodes.put("united states dollar", "USD");
+    currencyNamesToCodes.put("us dollar", "USD");
     currencyNamesToCodes.put("uruguayan peso", "UYU");
     currencyNamesToCodes.put("uzbekistan som", "UZS");
     currencyNamesToCodes.put("venezuelan bolívar", "VES");
