@@ -225,6 +225,7 @@ public class GetCountryNameFromCountryCode extends WebAction {
         countryCodesToNames.put("UKR", "Ukraine");
         countryCodesToNames.put("ARE", "United Arab Emirates");
         countryCodesToNames.put("GBR", "United Kingdom");
+        countryCodesToNames.put("USA", "United States of America");
         countryCodesToNames.put("URY", "Uruguay");
         countryCodesToNames.put("UZB", "Uzbekistan");
         countryCodesToNames.put("VUT", "Vanuatu");
